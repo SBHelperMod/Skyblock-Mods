@@ -2,5 +2,5 @@
 Enjoy our mod with the following features:
 QoL Dungeon Features, 
 AHSniper, 
-Render Settings for Performance Purposes, 
-DungeonAddons, 
+Render Settings for Performance Purposes, and 
+DungeonAddons!
